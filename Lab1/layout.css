@@ -3,3 +3,56 @@
     padding: 0;
     box-sizing: border-box;
 }
+
+body {
+    width: 100%;
+    font-family: Arial, sans-serif;
+    border: solid teal;
+}
+
+header {
+    padding: 10px;
+    background-color: YELLOW;
+    border: 1px solid brown;
+    text-align: center;
+    width: 100%;
+}
+
+nav {
+    width: 20%;
+    height: 200px;
+    padding: 10px;
+    background-color: YELLOW;
+    border: 1px solid brown;
+    text-align: center;
+    float: left;
+}
+
+article {
+    width: 60%;
+    height: 200px;
+    padding: 10px;
+    background-color: YELLOW;
+    border: 1px solid brown;
+    text-align: center;
+    float: left;
+} 
+
+div {
+    width: 20%;
+    height: 200px;
+    padding: 10px;
+    background-color: YELLOW;
+    border: 1px solid brown;
+    text-align: center;
+    float: left;
+}
+
+footer {
+    clear: both;
+    padding: 10px;
+    background-color: YELLOW;
+    border: 1px solid brown;
+    text-align: center;
+    width: 100%;
+}
